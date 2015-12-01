@@ -1,6 +1,6 @@
 # Termie2
 
-Termie2 is an **updated version** of [Termie](http://termie.sourceforge.net/) by McClurg (2008), an open source clone of Termite. It is useful for monitoring a serial port or logging output from an RS232 communication device.
+Termie2 is an **updated version** of [Termie](http://termie.sourceforge.net/) (David McClurg, 2008), an open source clone of Termite. It is useful for monitoring a serial port or logging output from an RS232 communication device.
 
 ![Termie2](http://i.imgur.com/3BF6DeV.png)
 
